@@ -1,0 +1,5 @@
+<?php
+define('JANRAIN_CAPTURE_URL', 'https:/CUSTOMER-APP.janraincapture.com');
+define('JANRAIN_LOGIN_CLIENT_ID', 'CLIENT-ID-WITH-DIRECT-ACCESS');
+define('JANRAIN_LOGIN_CLIENT_SECRET', 'CLIENT-SECRET');
+?>
