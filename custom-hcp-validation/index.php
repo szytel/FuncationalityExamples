@@ -2,7 +2,7 @@
 /*
 This demo requires 2 API calls. The first one gets the user data. The second, updates the record.
 Some simple HTML has been included to demonstrate how a form can interact with getting and updating
-a user record
+a user record - this is a test
 */
 require('config.example.php');
 
